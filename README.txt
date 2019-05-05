@@ -10,7 +10,11 @@
         3. BFS – Manhattan Distance Heuristic 
         4. Algorithm A* (A*) – Hamming Distance Heuristic 
         5. A* – Manhattan Distance Heuristic 
-	
+
+    The puzzle goal state is: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0]
+    You are asked to enter your preferred search algorithm and an initial state.
+    Initial state example: [1, 2, 6, 4, 5, 9, 7, 3, 0, 10, 11, 8]
+
     INSTRUCTION TO RUN THE PROGRAM
     Attached to this README file are six following files as Java source code files in order to run the MP1 program.
     Driver, PuzzleDFS, PuzzleBFS, Puzzle AStar, Node, CollectionHelper.
