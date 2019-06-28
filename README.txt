@@ -1,8 +1,12 @@
 
 /*
-    Implementation of DFS, BFS and A-Star algorithms to solve a 11d-Puzzle 
-    
-	DESCRIPTION
+	Title: Implementation of DFS, BFS and A-Star algorithms to solve a 11d-Puzzle 
+
+	Category: Machine Learning
+
+	Author: Ryan Mokarian
+	
+	DESCRIPTION:
 	This project implements a solution for the 11d-puzzle (a board of 3x4) using the following 
     search algorithms and heuristics: 
         1. Depth-first search (DFS) 
