@@ -8,7 +8,7 @@
 	
 	DESCRIPTION:
 	This project implements a solution for the 11d-puzzle (a board of 3x4) using the following 
-    search algorithms and heuristics: 
+    	search algorithms and heuristics: 
         1. Depth-first search (DFS) 
         2. Best-first search (BFS) – Hamming Distance Heuristic 
         3. BFS – Manhattan Distance Heuristic 
